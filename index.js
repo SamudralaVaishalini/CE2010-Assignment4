@@ -133,11 +133,11 @@ function specificPoint(){
             document.getElementById('results').innerHTML=`For the given point, SFD : ${sfd} ,BMD ${bmd}`
         }
         else{
-            document.getElementById('error_ppa').innerHTML="Error"
+            document.getElementById('Error').textContent='ERROR'
         }
     }
     else{
-        document.getElementById('error_ppa').innerHTML="Error"
+        document.getElementById('Error').textContent='ERROR'
     }
 
 }
