@@ -10,3 +10,5 @@ This is a user-friendly web application that allows you to input values like loa
 <br>
 3.Open the HTML file 
 
+# Owner
+Samudrala Vaishalini (102301030)
