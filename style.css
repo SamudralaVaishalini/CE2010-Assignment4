@@ -1,0 +1,237 @@
+ h4{
+    font-family: cursive
+}
+#name{
+    color:white
+}
+#rollno{
+    color:white;
+    margin-left:70px
+}
+#sv{
+    margin-left:1270px;
+}
+
+h2{
+    color:#212121;
+    text-align: center;
+    font-size: 3rem;
+}
+body {
+    background-image: radial-gradient(circle, 
+    #00cada, 
+    #00add4, 
+    #008fc9, 
+    #0071b9, 
+    #0051a0);
+}
+div{
+    position: absolute;
+}
+.block{
+    width:35%;
+    height:50px;
+    background-color: black;
+    
+    margin-left:550px;
+    margin-top:120px;
+}
+
+.circle{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    background-color: black;
+    margin-top:50px;
+    margin-left:500px;
+}
+.triangle{
+    
+        width: 0; 
+        height: 0; 
+        border-left: 30px solid transparent;
+        border-right: 30px solid transparent;
+        
+        border-bottom: 30px solid black;
+      margin-top:50px;
+      margin-left:-26px;
+}
+
+.down-arrow{
+   
+    font-size: 95px;
+    margin-top:-110px;
+    margin-left: 40%;
+}
+
+.force{
+    margin-top:-100px;
+    margin-left:50px;
+    font-size: 2.5rem;
+}
+
+.arrow {
+   font-size:60px;
+    
+    
+    display: inline-block; 
+    transform: scaleX(4.5);
+    margin-top:20px;
+    margin-left:98px;
+}
+#length_name_a{
+    font-size:1rem;
+    font-family:cursive;
+    margin-top:-25px;
+    margin-left:20px;
+}
+
+
+.value{
+    width:100%;
+    margin-left:50px;
+    margin-top:-10px;
+    
+    
+}
+
+.value_p{
+    margin-top: 290px;
+}
+
+.value_a{
+    margin-top:350px;
+}
+.value_l{
+    margin-top:410px;
+    
+
+}
+
+
+
+#SFD{
+    color:white;
+    margin-top:470px;
+    margin-left:250px;
+    position: absolute;
+    border-color:#0071b9;
+    margin-bottom: 900px
+    
+}
+
+#BMD{
+    color:white;
+    margin-top:470px;
+    margin-left:350px;
+    position: absolute;
+    border-color:#0071b9;
+    margin-bottom: 900px
+    
+}
+
+#myPlot{
+    background-color: #0051a0;
+    margin-top: 650px;
+    margin-left:40px;
+    width:50%;
+    max-width:700px
+}
+#Plot_Moment{
+    background-color: #0051a0;
+    margin-top: 650px;
+    width:50%;
+    max-width:700px;
+    margin-left:790px;
+}
+
+#Error{
+    margin-top: 550px;
+
+    text-align: center;
+    color:red;
+    font-size: 30px;
+    margin-left:50px
+}
+
+#Error:hover{
+    transform: scale(2.5);
+}
+
+.variation{
+    margin-left:900px;
+    margin-top:-305px;
+
+}
+#ppa{
+    margin-left:105px
+}
+#Submit{
+    margin-top:35px;
+    color: white;
+    margin-left:165px;
+}
+#h3{
+    margin-left:-100px;
+}
+
+#results{
+    color: #f9f871;
+    margin-top:-200px;
+    margin-left:950px;
+    transform: scale(1.5);
+    font-weight: 500;
+}
+
+
+#error_ppa{
+    color: red;
+    margin-top:-160px;
+    margin-left:1070px;
+    font-weight: 500;
+    font-size: 50px;
+   
+}
+
+#var_click{
+    color:white;
+    margin-left:1100px;
+    margin-top:20px;
+}
+
+#var_h3{
+    margin-left:850px;
+    margin-top:-110px;
+}
+
+#var_inp{
+    
+    margin-left:1050px;
+    margin-top:-110px;
+}
+
+#var_click_sfd{
+    margin-left:1100px;
+    margin-top:20px;
+}
+
+#var_click_bmd{
+    margin-left:1180px;
+    margin-top:-65px;
+}
+
+#Plot_SFD_Comparison{
+    background-color: #0051a0;
+    margin-top:750px;
+    margin-left:40px;
+    width:50%;
+    max-width:700px
+}
+
+#Plot_BMD_Comparison{
+    background-color: #0051a0;
+    margin-top:750px;
+    margin-left:790px;
+    width:50%;
+    max-width:700px
+}
